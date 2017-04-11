@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=oneapm-android-agent.jar   -DgroupId=com.oneapm.agent.android   -DartifactId=agent.android.local   -Dversion=3.0.5    -Dpackaging=jar
